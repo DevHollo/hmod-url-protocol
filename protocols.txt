@@ -1,3 +1,5 @@
+hmod://help
+
 hmod://game/tf2
 
 hmod://game/changed
