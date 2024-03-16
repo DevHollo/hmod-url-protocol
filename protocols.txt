@@ -1,5 +1,9 @@
-hmod://help
+#:-- Games --:#
+- hmod://games/tf2
+- hmod://games/changed
+- hmod://games/vrchat
+- hmod://games/gmod
+- hmod://games/people_playground
 
-hmod://game/tf2
-
-hmod://game/changed
+#:-- Other --:#
+- hmod://hollos_website
