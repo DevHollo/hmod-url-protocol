@@ -4,6 +4,10 @@
 - hmod://games/vrchat
 - hmod://games/gmod
 - hmod://games/people_playground
+- hmod://games/terraria
+- hmod://games/geometry_dash
+- hmod://games/lethal_company
 
 #:-- Other --:#
 - hmod://hollos_website
+- hmod://help
