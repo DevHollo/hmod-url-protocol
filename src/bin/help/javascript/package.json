@@ -1,0 +1,11 @@
+{
+    "name": "hmod-help",
+    "version": "0.0.1",
+    "main": "app.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "devDependencies": {
+        "electron": "^29.1.4"
+    }
+}
