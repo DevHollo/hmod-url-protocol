@@ -11,3 +11,4 @@
 #:-- Other --:#
 - hmod://hollos_website
 - hmod://help
+- hmod://hollos_discord_server
